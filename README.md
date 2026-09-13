@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Animated Quantum Mathematical and Stochastic Horizon Header -->
+  <!-- Editorial Mathematical Header -->
   <img src="./assets/header.svg" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/geovanybramanthya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/geovany-bramanthya-samuel-sihombing/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:geovanybramanthya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/geovanybramanthya-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
