@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Editorial Mathematical Header -->
-  <img src="./assets/header.svg" width="100%" alt="Header" />
+  <img src="https://files.catbox.moe/oj3mx8.svg" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Applied+Statistics+%26+Stochastic+Modeling;AzuraAzureQuant+Dual-Alpha+Trading+Engine;ESG-Integrated+Credit+Scoring+(ESG-BCS)+%7C+OJK+Institute;Actuarial+Mathematics+%26+Quantitative+Risk" alt="Typing SVG" />
@@ -52,8 +52,8 @@ Focused on **Applied Statistics, Actuarial Mathematics, Quantitative Trading, an
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=geovanybramanthya-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanybramanthya-bot&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://files.catbox.moe/l7nblm.png" height="150" alt="GitHub Stats" />
+  <img src="https://files.catbox.moe/2w2uyt.png" height="150" alt="Top Languages" />
 
   <br/>
 
@@ -64,5 +64,5 @@ Focused on **Applied Statistics, Actuarial Mathematics, Quantitative Trading, an
 ---
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Footer" />
+  <img src="https://files.catbox.moe/3hlni7.svg" width="100%" alt="Footer" />
 </div>
