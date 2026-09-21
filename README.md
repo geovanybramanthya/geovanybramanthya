@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/geovany-bramanthya-samuel-sihombing/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:geovanybramanthya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/geovanybramanthya-bot"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://github.com/geovanybramanthya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
 </div>
@@ -32,12 +32,12 @@ Focused on **Applied Statistics, Actuarial Mathematics, Quantitative Trading, an
 
 | Repository / Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| [**AzuraAzureQuant**](https://github.com/geovanybramanthya-bot/AzuraAzureQuant) | Python Freqtrade Bybit Futures Dual-Alpha FastAPI React / Vite | Production-grade quantitative futures trading system on Bybit Linear Perpetuals. Implements the ApexDualAlpha Omni engine family (V1 to V11 Ultimate) combining Long Pullback trend continuation with Short Resistance Exhaustion sweeps, asymmetric leverage sizing, and a real-time FastAPI + React telemetry dashboard. |
-| [**CONJUNET**](https://github.com/geovanybramanthya-bot/CONJUNET) | Python TensorFlow EfficientNet-B0 K-Means Streamlit Biomedical Vision | Non-invasive point-of-care anemia screening via palpebral conjunctiva computer vision (EfficientNet-B0 multi-seed ensemble) and provincial public health vulnerability cluster modeling for Satria Data 2026. Features strict Zero-Color-Jitter invariant and automated Hugging Face weight retrieval. |
-| [**bcs-esg-prototype**](https://github.com/geovanybramanthya-bot/bcs-esg-prototype) | Python SciPy linprog Best-Worst Method TOPSIS Streamlit Plotly | Multi-criteria ESG and credit risk decision support engine. Formulates expert pairwise preferences into a linear program using the Best-Worst Method (BWM) and computes relative closeness ranking via Reference-Anchored Cohort TOPSIS for commercial bank underwriting. |
-| [**AzuraClipper**](https://github.com/geovanybramanthya-bot/AzuraClipper) | Python FastAPI FFmpeg Supertonic faster-whisper ElevenLabs | Automated workstation-grade video clipping and narration assembly studio. Features unified dual-aspect (16:9 & 9:16) safe-fit canvas framing, sub-word karaoke caption generation, local Supertonic 3 neural speech synthesis with faster-whisper forced alignment, and broadcast loudness (-16 LUFS) audio mastering. |
-| [**Actuarial-Life-Contingencies**](https://github.com/geovanybramanthya-bot) | `R` `RStudio` `LaTeX` | Computational life insurance mathematics and actuarial modeling toolkit in R. Covers multiple decrement models, commutation tables, net level premium calculation, and stochastic reserve projections. |
-| [**Stochastic-Processes-Lab**](https://github.com/geovanybramanthya-bot) | `Python` `NumPy` `Statsmodels` `SciPy` | Numerical simulation platform for discrete and continuous Markov processes, Poisson jump diffusions, and stochastic differential equations with financial risk applications. |
+| [**AzuraAzureQuant**](https://github.com/geovanybramanthya/AzuraAzureQuant) | `Python` `Freqtrade` `Bybit Futures` `Dual-Alpha` `FastAPI` `React` `Vite` | Production-grade quantitative futures trading system on Bybit Linear Perpetuals. Implements the ApexDualAlpha Omni engine family (V1 to V11 Ultimate) combining Long Pullback trend continuation with Short Resistance Exhaustion sweeps, asymmetric leverage sizing, and a real-time FastAPI + React telemetry dashboard. |
+| [**CONJUNET**](https://github.com/geovanybramanthya/CONJUNET) | `Python` `TensorFlow` `EfficientNet-B0` `K-Means` `Streamlit` `Biomedical Vision` | Non-invasive point-of-care anemia screening via palpebral conjunctiva computer vision (EfficientNet-B0 multi-seed ensemble) and provincial public health vulnerability cluster modeling for Satria Data 2026. Features strict Zero-Color-Jitter invariant and automated Hugging Face weight retrieval. |
+| [**BCS-ESG-PROTOTYPE**](https://github.com/geovanybramanthya/BCS-ESG-PROTOTYPE) | `Python` `SciPy` `linprog` `Best-Worst Method` `TOPSIS` `Streamlit` `Plotly` | Multi-criteria ESG and credit risk decision support engine. Formulates expert pairwise preferences into a linear program using the Best-Worst Method (BWM) and computes relative closeness ranking via Reference-Anchored Cohort TOPSIS for commercial bank underwriting. |
+| [**AzuraClipper**](https://github.com/geovanybramanthya/AzuraClipper) | `Python` `FastAPI` `FFmpeg` `Supertonic` `faster-whisper` `ElevenLabs` | Automated workstation-grade video clipping and narration assembly studio. Features unified dual-aspect (16:9 & 9:16) safe-fit canvas framing, sub-word karaoke caption generation, local Supertonic 3 neural speech synthesis with faster-whisper forced alignment, and broadcast loudness (-16 LUFS) audio mastering. |
+| [**Actuarial-Life-Contingencies**](https://github.com/geovanybramanthya) | `R` `RStudio` `LaTeX` | Computational life insurance mathematics and actuarial modeling toolkit in R. Covers multiple decrement models, commutation tables, net level premium calculation, and stochastic reserve projections. |
+| [**Stochastic-Processes-Lab**](https://github.com/geovanybramanthya) | `Python` `NumPy` `Statsmodels` `SciPy` | Numerical simulation platform for discrete and continuous Markov processes, Poisson jump diffusions, and stochastic differential equations with financial risk applications. |
 
 ---
 
@@ -58,7 +58,7 @@ Focused on **Applied Statistics, Actuarial Mathematics, Quantitative Trading, an
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geovanybramanthya-bot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geovanybramanthya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
